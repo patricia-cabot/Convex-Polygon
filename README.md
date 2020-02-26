@@ -1,7 +1,7 @@
 # Pràctica de AP2: Polígons convexos
 
-#### Autora: Patricia Cabot Álvarez
-
+##### Autora: Patricia Cabot Álvarez
+##### Curs: 2018 - 2019
 ## Documentació general
 
 **Instalació**
