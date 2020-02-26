@@ -1,4 +1,7 @@
 # Pràctica de AP2: Polígons convexos
+
+#### Autora: Patricia Cabot Álvarez
+
 ## Documentació general
 
 **Instalació**
